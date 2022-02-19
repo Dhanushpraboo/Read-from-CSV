@@ -30,7 +30,7 @@ print('No. of Rows:',len(df.axes[0]))
 ~~~
 
 ## OUTPUT:
-![Code](csvimg1.png)
+![Code](csvimg1.jpeg)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
